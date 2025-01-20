@@ -124,5 +124,7 @@ int main(){
             printf("You have scored %d points\n\n",point05);
         }
     }
+    total1 = point1+point2+point3+point4+point5;
+    printf("&d",total1);
     return 0;
 }
